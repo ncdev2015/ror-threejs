@@ -10,7 +10,7 @@ Ruby on Rails + Three.js base configuration
 ## Install
 
 * bundle install
-* rails db:migrate
+* rails db:migrate (only Windows)
 
 ## Run for development
 
